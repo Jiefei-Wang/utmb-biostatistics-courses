@@ -1,0 +1,208 @@
+[
+    {
+     "Course Name": "Biostatistics",
+     "Course Number": "BIOS 6343",
+     "Description": "Course Description:\n\nThis course introduces the general application of biostatistical analysis, as performed in the biomedical, public health and social sciences. The course will examine how a wide variety of problems can be described and analyzed using the language of statistics. Specific topics to be covered include:\n\n- probability and distributions, data types, graphical representation of data, and the connection of probability to statistics and statistical inference;\n- hypothesis testing, equivalence testing, one vs. two sided tests;\n- parametric bivariate statistics such as the t-test and chi-squared tests, and their appropriate application, as well as non-parametric alternatives;\n- parametric multivariate statistics such as ANOVA, the regression framework including linear and logistic\n\nThe aim of the course is fourfold. First, to familiarize students with the vocabulary, basic notions, and some general concepts of statistics. Second, to apply these techniques to real data sets, using statistical programming software. Third, to learn how to use a statistical software programming language for data manipulation and analysis, and to gain a general understanding of statistical software tools. Fourth, to critically analyze both the results of our own analyses, as well as published work in the biomedical literature.",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes",
+     "Prerequisite1": "No prerequisite"
+    },
+    {
+     "Course Name": "Introduction to Linear Models",
+     "Course Number": "BIOS 6344",
+     "Description": "This course provides an introduction to the most common statistical model used in data analysis. The model has been adopted as a conceptual framework throughout the biomedical, public health and social sciences. It includes special cases: simple regression and correlation, multiple regression, analysis of covariance and analysis of variance. The model is termed as linear model and with broad assumptions, and uses simple computational techniques known as ordinary least squares. The course will cover assumptions and diagnostic methods of these models. Examples from the biomedical and socio-medical sciences will illustrate all of the techniques. Computations require using the computer package SAS. The interpretation and presentation of results are emphasized.",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes",
+     "Prerequisite1": "BIOS 6343 Biostatistics",
+     "Prerequisite2": "BIOS 6143 Data Management"
+    },
+    {
+     "Course Name": "Categorical Data Analysis",
+     "Course Number": "BIOS 6341",
+     "Description": "This course surveys theory and methods for the analysis of categorical response and count data. The course begins with an overview of classic results and likelihood based inference for categorical data analysis (chi-square statistics). We will then examine appropriate methods for dealing with contingency tables. Additional topics include logistic regression, model building strategies, multiple logistic regression, poisson regression, Loglinear Models, Multicategory Logit Models, and Models for Matched Pairs.",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes",
+     "Prerequisite1": "BBSC 6222 Biostatistics or BIOS 6343 Biostatistics or BIOS 6347",
+     "Prerequisite2": "BIOS 6344 Introduction to Linear Models"
+    },
+    {
+     "Course Name": "Correlated Data Analysis",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Survival Analysis",
+     "Course Number": "BIOS 6321",
+     "Description": "This course aims to begin a dialogue that will continue throughout the students’ careers: that between technical statistical knowledge, and the real world application thereof, in collaboration with non-statistically oriented content experts. The matter of the course details sundry aspects of this conversation: the overarching systems within which statistical consulting takes place, the personal relationships between the client and consultant, the technical details of statistical analysis and their explanation to clients, and miscellany including an aside into graphical representation of statistical information.\n\nThis material will be supplemented with lectures from experts: those who have consulted in non-academic areas of the biomedical sciences, those who have consulted in other fields, and those who are our partners in this endeavor – our consulting clients.",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes",
+     "Prerequisite1": "BIOS 6343 Biostatistics",
+     "Prerequisite2": "BIOS 6344 Introduction to Linear Models",
+     "Prerequisite3": "BIOS 6143 Data Management"
+    },
+    {
+     "Course Name": "Data Management",
+     "Course Number": "BIOS 6143",
+     "Description": "This course introduces the management of data using SAS programming language. The course content includes how to read, clean, analyze data and generate outputs. The data and proc steps in SAS will be presented. The course will also review some basic data exploration methods. The emphasis of this course is to get students acquainted with the required skill not only to perform independent data analysis using SAS but also to advance their programming skills after the course.",
+     "Credit": 1,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes",
+     "Prerequisite1": "No prerequisite"
+    },
+    {
+     "Course Name": "Research\/Practicum",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Introduction to Probability Theory",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Statistical Consulting",
+     "Course Number": "PHS 6242",
+     "Description": "This course aims to begin a dialogue that will continue throughout the students’ careers: that between technical statistical knowledge, and the real world application thereof, in collaboration with non-statistically oriented content experts. The matter of the course details sundry aspects of this conversation: the overarching systems within which statistical consulting takes place, the personal relationships between the client and consultant, the technical details of statistical analysis and their explanation to clients, and miscellany including an aside into graphical representation of statistical information.\n\nThis material will be supplemented with lectures from experts: those who have consulted in non-academic areas of the biomedical sciences, those who have consulted in other fields, and those who are our partners in this endeavor – our consulting clients.\n\nEvaluation of students in terms of achieving core MPH competencies and meeting course learning objectives will be done through in class assignments and discussion. Consultation is a group activity, not a solo one; this group activity is at the core of the collaboration central to an MPH and modern scientific endeavor. Assessment of many aspects of an individual’s abilities in this area is thus necessarily done in the social context of a lecture, rather than a solitary one.",
+     "Credit": 2,
+     "Required by MS": "Yes",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Clinical Trials",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Introduction to Epidemiology",
+     "Course Number": "EPI 6330",
+     "Description": "This course is an introduction to the theory and practice of epidemiology, the study of the distribution and determinants of health in populations and the application of this study to control and improve health outcomes.  Concepts that will be covered include: historical foundations of epidemiologic research, measures of disease frequency, standardization, study design, measures of effect, screening, and causality.  The student will gain insight into the strengths and limitations of population-based research, acquire skills to critically evaluate epidemiologic research, understand the basis of causal inference regarding health and disease, and appreciate the scope of epidemiology and its uses in the areas of public health and clinical care.",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Survey Methods",
+     "Course Number": "PHS 6374",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Introduction to Machine Learning",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Introduction to Big Data Visual Analytics",
+     "Credit": 2,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Foundations of Medical Informatics",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Biomedical Informatics: Applied",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Health Services Research Analyses",
+     "Description": "This course will introduce the analytical methods commonly used in health services research. Students will be able to carry out most statistical analyses discussed in the course with SAS. Topics include interrupted time-serial analysis, difference-in-difference, regression discontinuity, propensity score methods, matching, the parametric g-formula, inverse probability weighting of marginal structural model, instrumental variable analysis, and decision analysis.",
+     "Credit": 2,
+     "Required by MS": "No",
+     "Required by MPH": "No",
+     "Prerequisite1": "BIOS 6143 Data Management",
+     "Prerequisite2": "BIOS 6343 Biostatistics",
+     "Prerequisite3": "BIOS 6344 Introduction to Linear Model",
+     "Prerequisite4": "BIOS 6321 Survival Data Analysis"
+    },
+    {
+     "Course Name": "Epidemiology Methods",
+     "Course Number": "PHS 6333",
+     "Description": "This course builds on PHS 6330 “Introduction to Epidemiology” offered in the Fall of the previous year. Advanced topics in the theory and practice of epidemiologic research and public health practice will be covered during this course, which include development of epidemiologic methods, issues with study design, eliminating bias, assessing and controlling for confounding, effect modification\/interaction, matching, misclassification, cross-sectional, case-control, cohort studies, clinical trials, systematic reviews and meta-analysis.\n\nWeekly assignments will include reading and practice exercises, homework that may include data analysis or preparation of written critiques of published studies. Students will be responsible for leading class discussions on various assigned topics or readings. Conceptual issues challenging epidemiologic research and public health practice presented in the introductory course, such as bias, confounding, and adjustment, will be reviewed in greater detail. Although the core of the class is directed to conceptual based learning, application of tools to address these challenges will be taught in parallel.\n\nThe tools and techniques presented in epidemiologic methods have been selected because they:",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "No",
+     "Prerequisite1": "BIOS 6343 Biostatistics",
+     "Prerequisite2": "BIOS 6143 Data Management",
+     "Prerequisite3": "EPI 6330 Introduction to Epidemiology"
+    },
+    {
+     "Course Name": "Research Rotation",
+     "Credit": 3,
+     "Required by MS": "Yes",
+     "Required by MPH": "No"
+    },
+    {
+     "Course Name": "Analytical Methods in Public Health ",
+     "Course Number": "SPPH 6496-006",
+     "Description": "This course is designed to provide an overview of analytical methods in public health, both quantitative and qualitative. Students will learn basics of epidemiological study design, basic quantitative and qualitative analysis, data collection, and interpretation.",
+     "Credit": 4,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "PH Assessment, Planning & Evaluation ",
+     "Course Number": "PHS 6324",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Public Health Practice Experience ",
+     "Course Number": "SPPH 6070 ",
+     "Credit": 4,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Policy & Equity",
+     "Course Number": "SPPH 6469",
+     "Description": "The Policy and Equity course will enable students to evaluate and recommend policies for a selected issue, apply advocacy products or plans for the selected issue, and apply the policy-making process for the issue. Students will compare and contrast health systems’ models at the global level, including how values and culture affect these systems and the policies that create or change these systems. Students will identify historical and present-day factors (e.g., social, systemic, organizational, community) that contribute to health inequities and obstruct achieving health equity, and develop a systems map identifying multi-level causes, including structural bias, social inequities, and racism, for the public health or health-related issue.",
+     "Credit": 4,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Biostatistics or General Elective",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Integrative Learning Experience",
+     "Course Number": "SPPH 6016",
+     "Description": "The Integrative Learning Experience (ILE) is a requirement of all MPH students. The ILE is a culminating project that allows students to integrate the knowledge and skills they have gained throughout their MPH coursework and practice experience. It is intended to provide students with the opportunity to explore a public health area of interest in greater depth, produce a high-quality written product that aligns with their educational and professional goals, and demonstrate the synthesis of competencies attained during the MPH program.",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "Applied Public Health Leadership",
+     "Course Number": "SPPH 6338",
+     "Credit": 3,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    },
+    {
+     "Course Name": "MPH Public Health Ethics",
+     "Course Number": "BHH 6137 ",
+     "Credit": 1,
+     "Required by MS": "No",
+     "Required by MPH": "Yes"
+    }
+   ]
