@@ -1,6 +1,7 @@
 [
     {
      "Course Name": "Biostatistics",
+     "Biostat": "Y",
      "Course Number": "BIOS 6343",
      "Description": "Course Description:\n\nThis course introduces the general application of biostatistical analysis, as performed in the biomedical, public health and social sciences. The course will examine how a wide variety of problems can be described and analyzed using the language of statistics. Specific topics to be covered include:\n\n- probability and distributions, data types, graphical representation of data, and the connection of probability to statistics and statistical inference;\n- hypothesis testing, equivalence testing, one vs. two sided tests;\n- parametric bivariate statistics such as the t-test and chi-squared tests, and their appropriate application, as well as non-parametric alternatives;\n- parametric multivariate statistics such as ANOVA, the regression framework including linear and logistic\n\nThe aim of the course is fourfold. First, to familiarize students with the vocabulary, basic notions, and some general concepts of statistics. Second, to apply these techniques to real data sets, using statistical programming software. Third, to learn how to use a statistical software programming language for data manipulation and analysis, and to gain a general understanding of statistical software tools. Fourth, to critically analyze both the results of our own analyses, as well as published work in the biomedical literature.",
      "Credit": 3,
@@ -9,6 +10,7 @@
     },
     {
      "Course Name": "Introduction to Linear Models",
+     "Biostat": "Y",
      "Course Number": "BIOS 6344",
      "Description": "This course provides an introduction to the most common statistical model used in data analysis. The model has been adopted as a conceptual framework throughout the biomedical, public health and social sciences. It includes special cases: simple regression and correlation, multiple regression, analysis of covariance and analysis of variance. The model is termed as linear model and with broad assumptions, and uses simple computational techniques known as ordinary least squares. The course will cover assumptions and diagnostic methods of these models. Examples from the biomedical and socio-medical sciences will illustrate all of the techniques. Computations require using the computer package SAS. The interpretation and presentation of results are emphasized.",
      "Credit": 3,
@@ -19,6 +21,7 @@
     },
     {
      "Course Name": "Categorical Data Analysis",
+     "Biostat": "Y",
      "Course Number": "BIOS 6341",
      "Description": "This course surveys theory and methods for the analysis of categorical response and count data. The course begins with an overview of classic results and likelihood based inference for categorical data analysis (chi-square statistics). We will then examine appropriate methods for dealing with contingency tables. Additional topics include logistic regression, model building strategies, multiple logistic regression, poisson regression, Loglinear Models, Multicategory Logit Models, and Models for Matched Pairs.",
      "Credit": 3,
@@ -29,12 +32,14 @@
     },
     {
      "Course Name": "Correlated Data Analysis",
+     "Biostat": "Y",
      "Credit": 3,
      "Required by MS": "Yes",
      "Required by MPH": "No"
     },
     {
      "Course Name": "Survival Analysis",
+     "Biostat": "Y",
      "Course Number": "BIOS 6321",
      "Description": "This course aims to begin a dialogue that will continue throughout the students’ careers: that between technical statistical knowledge, and the real world application thereof, in collaboration with non-statistically oriented content experts. The matter of the course details sundry aspects of this conversation: the overarching systems within which statistical consulting takes place, the personal relationships between the client and consultant, the technical details of statistical analysis and their explanation to clients, and miscellany including an aside into graphical representation of statistical information.\n\nThis material will be supplemented with lectures from experts: those who have consulted in non-academic areas of the biomedical sciences, those who have consulted in other fields, and those who are our partners in this endeavor – our consulting clients.",
      "Credit": 3,
@@ -46,6 +51,7 @@
     },
     {
      "Course Name": "Data Management",
+     "Biostat": "Y",
      "Course Number": "BIOS 6143",
      "Description": "This course introduces the management of data using SAS programming language. The course content includes how to read, clean, analyze data and generate outputs. The data and proc steps in SAS will be presented. The course will also review some basic data exploration methods. The emphasis of this course is to get students acquainted with the required skill not only to perform independent data analysis using SAS but also to advance their programming skills after the course.",
      "Credit": 1,
@@ -54,12 +60,14 @@
     },
     {
      "Course Name": "Research\/Practicum",
+     "Biostat": "Y",
      "Credit": 3,
      "Required by MS": "No",
      "Required by MPH": "No"
     },
     {
      "Course Name": "Introduction to Probability Theory",
+     "Biostat": "Y",
      "Credit": 3,
      "Required by MS": "Yes",
      "Required by MPH": "No"
@@ -88,6 +96,7 @@
     },
     {
      "Course Name": "Survey Methods",
+     "Biostat": "Y",
      "Course Number": "PHS 6374",
      "Credit": 3,
      "Required by MS": "No",
@@ -95,12 +104,14 @@
     },
     {
      "Course Name": "Introduction to Machine Learning",
+     "Biostat": "Y",
      "Credit": 3,
      "Required by MS": "No",
      "Required by MPH": "No"
     },
     {
      "Course Name": "Introduction to Big Data Visual Analytics",
+     "Biostat": "Y",
      "Credit": 2,
      "Required by MS": "No",
      "Required by MPH": "No"
