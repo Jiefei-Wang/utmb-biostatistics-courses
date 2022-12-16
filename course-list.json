@@ -5,8 +5,7 @@
      "Description": "Course Description:\n\nThis course introduces the general application of biostatistical analysis, as performed in the biomedical, public health and social sciences. The course will examine how a wide variety of problems can be described and analyzed using the language of statistics. Specific topics to be covered include:\n\n- probability and distributions, data types, graphical representation of data, and the connection of probability to statistics and statistical inference;\n- hypothesis testing, equivalence testing, one vs. two sided tests;\n- parametric bivariate statistics such as the t-test and chi-squared tests, and their appropriate application, as well as non-parametric alternatives;\n- parametric multivariate statistics such as ANOVA, the regression framework including linear and logistic\n\nThe aim of the course is fourfold. First, to familiarize students with the vocabulary, basic notions, and some general concepts of statistics. Second, to apply these techniques to real data sets, using statistical programming software. Third, to learn how to use a statistical software programming language for data manipulation and analysis, and to gain a general understanding of statistical software tools. Fourth, to critically analyze both the results of our own analyses, as well as published work in the biomedical literature.",
      "Credit": 3,
      "Required by MS": "Yes",
-     "Required by MPH": "Yes",
-     "Prerequisite1": "No prerequisite"
+     "Required by MPH": "Yes"
     },
     {
      "Course Name": "Introduction to Linear Models",
@@ -51,8 +50,7 @@
      "Description": "This course introduces the management of data using SAS programming language. The course content includes how to read, clean, analyze data and generate outputs. The data and proc steps in SAS will be presented. The course will also review some basic data exploration methods. The emphasis of this course is to get students acquainted with the required skill not only to perform independent data analysis using SAS but also to advance their programming skills after the course.",
      "Credit": 1,
      "Required by MS": "Yes",
-     "Required by MPH": "Yes",
-     "Prerequisite1": "No prerequisite"
+     "Required by MPH": "Yes"
     },
     {
      "Course Name": "Research\/Practicum",
